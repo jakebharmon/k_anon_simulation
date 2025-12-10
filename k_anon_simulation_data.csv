@@ -1,0 +1,257 @@
+step,race_ethn,gender,age,date,k
+1,White,NA/Other,12,2025-08-31,2
+1,White,NA/Other,16,2025-09-02,1
+1,African American,Female,15,2025-08-31,2
+1,African American,Female,2,2025-08-31,1
+1,White,NA/Other,13,2025-09-02,1
+1,White,Male,12,2025-09-01,2
+1,White,Male,6,2025-08-29,1
+1,White,Male,2,2025-08-29,1
+1,White,NA/Other,2,2025-08-27,2
+1,White,NA/Other,17,2025-09-02,1
+1,African American,Female,15,2025-08-31,2
+1,White,NA/Other,2,2025-08-27,2
+1,White,NA/Other,14,2025-09-05,2
+1,White,NA/Other,3,2025-09-07,1
+1,White,Female,14,2025-09-05,1
+1,White,NA/Other,9,2025-08-29,1
+1,Hispanic,Female,17,2025-08-26,1
+1,White,NA/Other,15,2025-09-05,1
+1,African American,Male,1,2025-08-30,2
+1,White,NA/Other,1,2025-09-07,2
+1,Hispanic,Female,14,2025-08-26,1
+1,White,Male,8,2025-09-01,1
+1,African American,Female,17,2025-08-31,1
+1,White,Male,5,2025-08-29,1
+1,Hispanic,Female,17,2025-09-04,2
+1,White,Female,18,2025-09-05,1
+1,White,NA/Other,10,2025-08-31,1
+1,White,NA/Other,4,2025-09-07,1
+1,Hispanic,Female,15,2025-08-26,2
+1,White,NA/Other,18,2025-09-02,1
+1,White,NA/Other,11,2025-08-29,1
+1,White,NA/Other,14,2025-09-05,2
+1,White,Female,17,2025-09-05,2
+1,Hispanic,Male,10,2025-09-01,2
+1,Hispanic,Female,15,2025-09-04,2
+1,White,NA/Other,12,2025-08-31,2
+1,White,Male,12,2025-09-01,2
+1,Hispanic,Male,11,2025-09-01,2
+1,African American,Female,16,2025-08-31,1
+1,White,NA/Other,15,2025-09-02,1
+1,White,NA/Other,12,2025-08-29,1
+1,White,NA/Other,3,2025-08-27,1
+1,African American,Female,1,2025-08-31,1
+1,White,NA/Other,1,2025-09-07,2
+1,White,Female,15,2025-09-05,1
+1,African American,Female,4,2025-08-31,1
+1,African American,Male,6,2025-08-30,1
+1,White,Male,3,2025-08-29,1
+1,White,Male,7,2025-09-01,1
+1,Hispanic,Female,17,2025-09-04,2
+1,White,NA/Other,8,2025-08-29,1
+1,Hispanic,Female,15,2025-09-04,2
+1,White,NA/Other,6,2025-08-27,1
+1,White,Female,17,2025-09-05,2
+1,White,NA/Other,9,2025-08-31,1
+1,White,Male,9,2025-09-01,1
+1,African American,Female,3,2025-08-31,1
+1,Hispanic,Male,11,2025-09-01,2
+1,African American,Male,1,2025-08-30,2
+1,Hispanic,Female,15,2025-08-26,2
+1,White,NA/Other,17,2025-09-05,1
+1,White,NA/Other,8,2025-08-31,1
+1,African American,Male,2,2025-08-30,1
+1,Hispanic,Male,10,2025-09-01,2
+2,White,NA/Other,"(6.67,12.3]",2025-08-31,5
+2,White,NA/Other,"(12.3,18]",2025-09-02,5
+2,African American,Female,"(12.3,18]",2025-08-31,4
+2,African American,Female,"[1,6.67]",2025-08-31,4
+2,White,NA/Other,"(12.3,18]",2025-09-02,5
+2,White,Male,"(6.67,12.3]",2025-09-01,5
+2,White,Male,"[1,6.67]",2025-08-29,4
+2,White,Male,"[1,6.67]",2025-08-29,4
+2,White,NA/Other,"[1,6.67]",2025-08-27,4
+2,White,NA/Other,"(12.3,18]",2025-09-02,5
+2,African American,Female,"(12.3,18]",2025-08-31,4
+2,White,NA/Other,"[1,6.67]",2025-08-27,4
+2,White,NA/Other,"(12.3,18]",2025-09-05,4
+2,White,NA/Other,"[1,6.67]",2025-09-07,4
+2,White,Female,"(12.3,18]",2025-09-05,5
+2,White,NA/Other,"(6.67,12.3]",2025-08-29,4
+2,Hispanic,Female,"(12.3,18]",2025-08-26,4
+2,White,NA/Other,"(12.3,18]",2025-09-05,4
+2,African American,Male,"[1,6.67]",2025-08-30,4
+2,White,NA/Other,"[1,6.67]",2025-09-07,4
+2,Hispanic,Female,"(12.3,18]",2025-08-26,4
+2,White,Male,"(6.67,12.3]",2025-09-01,5
+2,African American,Female,"(12.3,18]",2025-08-31,4
+2,White,Male,"[1,6.67]",2025-08-29,4
+2,Hispanic,Female,"(12.3,18]",2025-09-04,4
+2,White,Female,"(12.3,18]",2025-09-05,5
+2,White,NA/Other,"(6.67,12.3]",2025-08-31,5
+2,White,NA/Other,"[1,6.67]",2025-09-07,4
+2,Hispanic,Female,"(12.3,18]",2025-08-26,4
+2,White,NA/Other,"(12.3,18]",2025-09-02,5
+2,White,NA/Other,"(6.67,12.3]",2025-08-29,4
+2,White,NA/Other,"(12.3,18]",2025-09-05,4
+2,White,Female,"(12.3,18]",2025-09-05,5
+2,Hispanic,Male,"(6.67,12.3]",2025-09-01,4
+2,Hispanic,Female,"(12.3,18]",2025-09-04,4
+2,White,NA/Other,"(6.67,12.3]",2025-08-31,5
+2,White,Male,"(6.67,12.3]",2025-09-01,5
+2,Hispanic,Male,"(6.67,12.3]",2025-09-01,4
+2,African American,Female,"(12.3,18]",2025-08-31,4
+2,White,NA/Other,"(12.3,18]",2025-09-02,5
+2,White,NA/Other,"(6.67,12.3]",2025-08-29,4
+2,White,NA/Other,"[1,6.67]",2025-08-27,4
+2,African American,Female,"[1,6.67]",2025-08-31,4
+2,White,NA/Other,"[1,6.67]",2025-09-07,4
+2,White,Female,"(12.3,18]",2025-09-05,5
+2,African American,Female,"[1,6.67]",2025-08-31,4
+2,African American,Male,"[1,6.67]",2025-08-30,4
+2,White,Male,"[1,6.67]",2025-08-29,4
+2,White,Male,"(6.67,12.3]",2025-09-01,5
+2,Hispanic,Female,"(12.3,18]",2025-09-04,4
+2,White,NA/Other,"(6.67,12.3]",2025-08-29,4
+2,Hispanic,Female,"(12.3,18]",2025-09-04,4
+2,White,NA/Other,"[1,6.67]",2025-08-27,4
+2,White,Female,"(12.3,18]",2025-09-05,5
+2,White,NA/Other,"(6.67,12.3]",2025-08-31,5
+2,White,Male,"(6.67,12.3]",2025-09-01,5
+2,African American,Female,"[1,6.67]",2025-08-31,4
+2,Hispanic,Male,"(6.67,12.3]",2025-09-01,4
+2,African American,Male,"[1,6.67]",2025-08-30,4
+2,Hispanic,Female,"(12.3,18]",2025-08-26,4
+2,White,NA/Other,"(12.3,18]",2025-09-05,4
+2,White,NA/Other,"(6.67,12.3]",2025-08-31,5
+2,African American,Male,"[1,6.67]",2025-08-30,4
+2,Hispanic,Male,"(6.67,12.3]",2025-09-01,4
+3,White,NA/Other,"(6.67,12.3]",2025-08-01,5
+3,White,NA/Other,"(12.3,18]",2025-09-01,5
+3,African American,Female,"(12.3,18]",2025-08-01,4
+3,African American,Female,"[1,6.67]",2025-08-01,4
+3,White,NA/Other,"(12.3,18]",2025-09-01,5
+3,White,Male,"(6.67,12.3]",2025-09-01,5
+3,White,Male,"[1,6.67]",2025-08-01,4
+3,White,Male,"[1,6.67]",2025-08-01,4
+3,White,NA/Other,"[1,6.67]",2025-08-01,4
+3,White,NA/Other,"(12.3,18]",2025-09-01,5
+3,African American,Female,"(12.3,18]",2025-08-01,4
+3,White,NA/Other,"[1,6.67]",2025-08-01,4
+3,White,NA/Other,"(12.3,18]",2025-09-01,4
+3,White,NA/Other,"[1,6.67]",2025-09-01,4
+3,White,Female,"(12.3,18]",2025-09-01,5
+3,White,NA/Other,"(6.67,12.3]",2025-08-01,4
+3,Hispanic,Female,"(12.3,18]",2025-08-01,4
+3,White,NA/Other,"(12.3,18]",2025-09-01,4
+3,African American,Male,"[1,6.67]",2025-08-01,4
+3,White,NA/Other,"[1,6.67]",2025-09-01,4
+3,Hispanic,Female,"(12.3,18]",2025-08-01,4
+3,White,Male,"(6.67,12.3]",2025-09-01,5
+3,African American,Female,"(12.3,18]",2025-08-01,4
+3,White,Male,"[1,6.67]",2025-08-01,4
+3,Hispanic,Female,"(12.3,18]",2025-09-01,4
+3,White,Female,"(12.3,18]",2025-09-01,5
+3,White,NA/Other,"(6.67,12.3]",2025-08-01,5
+3,White,NA/Other,"[1,6.67]",2025-09-01,4
+3,Hispanic,Female,"(12.3,18]",2025-08-01,4
+3,White,NA/Other,"(12.3,18]",2025-09-01,5
+3,White,NA/Other,"(6.67,12.3]",2025-08-01,4
+3,White,NA/Other,"(12.3,18]",2025-09-01,4
+3,White,Female,"(12.3,18]",2025-09-01,5
+3,Hispanic,Male,"(6.67,12.3]",2025-09-01,4
+3,Hispanic,Female,"(12.3,18]",2025-09-01,4
+3,White,NA/Other,"(6.67,12.3]",2025-08-01,5
+3,White,Male,"(6.67,12.3]",2025-09-01,5
+3,Hispanic,Male,"(6.67,12.3]",2025-09-01,4
+3,African American,Female,"(12.3,18]",2025-08-01,4
+3,White,NA/Other,"(12.3,18]",2025-09-01,5
+3,White,NA/Other,"(6.67,12.3]",2025-08-01,4
+3,White,NA/Other,"[1,6.67]",2025-08-01,4
+3,African American,Female,"[1,6.67]",2025-08-01,4
+3,White,NA/Other,"[1,6.67]",2025-09-01,4
+3,White,Female,"(12.3,18]",2025-09-01,5
+3,African American,Female,"[1,6.67]",2025-08-01,4
+3,African American,Male,"[1,6.67]",2025-08-01,4
+3,White,Male,"[1,6.67]",2025-08-01,4
+3,White,Male,"(6.67,12.3]",2025-09-01,5
+3,Hispanic,Female,"(12.3,18]",2025-09-01,4
+3,White,NA/Other,"(6.67,12.3]",2025-08-01,4
+3,Hispanic,Female,"(12.3,18]",2025-09-01,4
+3,White,NA/Other,"[1,6.67]",2025-08-01,4
+3,White,Female,"(12.3,18]",2025-09-01,5
+3,White,NA/Other,"(6.67,12.3]",2025-08-01,5
+3,White,Male,"(6.67,12.3]",2025-09-01,5
+3,African American,Female,"[1,6.67]",2025-08-01,4
+3,Hispanic,Male,"(6.67,12.3]",2025-09-01,4
+3,African American,Male,"[1,6.67]",2025-08-01,4
+3,Hispanic,Female,"(12.3,18]",2025-08-01,4
+3,White,NA/Other,"(12.3,18]",2025-09-01,4
+3,White,NA/Other,"(6.67,12.3]",2025-08-01,5
+3,African American,Male,"[1,6.67]",2025-08-01,4
+3,Hispanic,Male,"(6.67,12.3]",2025-09-01,4
+4,White,NA/Other,"(6.67,12.3]",2025-08-01,19
+4,White,NA/Other,"(12.3,18]",2025-09-01,17
+4,Non-White,Female,"(12.3,18]",2025-08-01,21
+4,Non-White,Female,"[1,6.67]",2025-08-01,13
+4,White,NA/Other,"(12.3,18]",2025-09-01,17
+4,White,Male,"(6.67,12.3]",2025-09-01,15
+4,White,Male,"[1,6.67]",2025-08-01,14
+4,White,Male,"[1,6.67]",2025-08-01,14
+4,White,NA/Other,"[1,6.67]",2025-08-01,17
+4,White,NA/Other,"(12.3,18]",2025-09-01,17
+4,Non-White,Female,"(12.3,18]",2025-08-01,21
+4,White,NA/Other,"[1,6.67]",2025-08-01,17
+4,White,NA/Other,"(12.3,18]",2025-09-01,17
+4,White,NA/Other,"[1,6.67]",2025-09-01,11
+4,White,Female,"(12.3,18]",2025-09-01,15
+4,White,NA/Other,"(6.67,12.3]",2025-08-01,19
+4,Non-White,Female,"(12.3,18]",2025-08-01,21
+4,White,NA/Other,"(12.3,18]",2025-09-01,17
+4,Non-White,Male,"[1,6.67]",2025-08-01,17
+4,White,NA/Other,"[1,6.67]",2025-09-01,11
+4,Non-White,Female,"(12.3,18]",2025-08-01,21
+4,White,Male,"(6.67,12.3]",2025-09-01,15
+4,Non-White,Female,"(12.3,18]",2025-08-01,21
+4,White,Male,"[1,6.67]",2025-08-01,14
+4,Non-White,Female,"(12.3,18]",2025-09-01,18
+4,White,Female,"(12.3,18]",2025-09-01,15
+4,White,NA/Other,"(6.67,12.3]",2025-08-01,19
+4,White,NA/Other,"[1,6.67]",2025-09-01,11
+4,Non-White,Female,"(12.3,18]",2025-08-01,21
+4,White,NA/Other,"(12.3,18]",2025-09-01,17
+4,White,NA/Other,"(6.67,12.3]",2025-08-01,19
+4,White,NA/Other,"(12.3,18]",2025-09-01,17
+4,White,Female,"(12.3,18]",2025-09-01,15
+4,Non-White,Male,"(6.67,12.3]",2025-09-01,11
+4,Non-White,Female,"(12.3,18]",2025-09-01,18
+4,White,NA/Other,"(6.67,12.3]",2025-08-01,19
+4,White,Male,"(6.67,12.3]",2025-09-01,15
+4,Non-White,Male,"(6.67,12.3]",2025-09-01,11
+4,Non-White,Female,"(12.3,18]",2025-08-01,21
+4,White,NA/Other,"(12.3,18]",2025-09-01,17
+4,White,NA/Other,"(6.67,12.3]",2025-08-01,19
+4,White,NA/Other,"[1,6.67]",2025-08-01,17
+4,Non-White,Female,"[1,6.67]",2025-08-01,13
+4,White,NA/Other,"[1,6.67]",2025-09-01,11
+4,White,Female,"(12.3,18]",2025-09-01,15
+4,Non-White,Female,"[1,6.67]",2025-08-01,13
+4,Non-White,Male,"[1,6.67]",2025-08-01,17
+4,White,Male,"[1,6.67]",2025-08-01,14
+4,White,Male,"(6.67,12.3]",2025-09-01,15
+4,Non-White,Female,"(12.3,18]",2025-09-01,18
+4,White,NA/Other,"(6.67,12.3]",2025-08-01,19
+4,Non-White,Female,"(12.3,18]",2025-09-01,18
+4,White,NA/Other,"[1,6.67]",2025-08-01,17
+4,White,Female,"(12.3,18]",2025-09-01,15
+4,White,NA/Other,"(6.67,12.3]",2025-08-01,19
+4,White,Male,"(6.67,12.3]",2025-09-01,15
+4,Non-White,Female,"[1,6.67]",2025-08-01,13
+4,Non-White,Male,"(6.67,12.3]",2025-09-01,11
+4,Non-White,Male,"[1,6.67]",2025-08-01,17
+4,Non-White,Female,"(12.3,18]",2025-08-01,21
+4,White,NA/Other,"(12.3,18]",2025-09-01,17
+4,White,NA/Other,"(6.67,12.3]",2025-08-01,19
+4,Non-White,Male,"[1,6.67]",2025-08-01,17
+4,Non-White,Male,"(6.67,12.3]",2025-09-01,11
