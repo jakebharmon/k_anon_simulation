@@ -7,3 +7,5 @@ I wrote this code to simulate the distorting effect of "K Anonymity" as a deiden
 *02_create_html* - This is code genereated by Gemeni which turns the Plotly objects into an HTML file and records of the 3D objects rotating
 
 *k_anon_simulation_data.csv* - This is the output of all four scenarios as a dataframe
+
+[![Watch a full video of the simulation and script here!](https://img.youtube.com/vi/whm9FHYaQrk/0.jpg)](https://www.youtube.com/watch?v=whm9FHYaQrk)
